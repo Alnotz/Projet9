@@ -1,4 +1,4 @@
-/* Code */
+/* Le vrai code */
 /* Auteur Alnotz */
 #include <streamio>
 #include <cstdlib>
