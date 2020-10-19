@@ -1,4 +1,4 @@
-/* Code */
+/* Code un peu vieillot */
 /* Auteur Alnotz */
 #include <streamio>
 #include <cstdlib>
