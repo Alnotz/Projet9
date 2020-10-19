@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /* Code un peu vieillot */
+=======
+/* Dernier code */
+>>>>>>> slave
 /* Auteur Alnotz */
 #include <streamio>
 #include <cstdlib>
